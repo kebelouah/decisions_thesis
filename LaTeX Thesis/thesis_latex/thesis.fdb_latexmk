@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1723768159 "thesis.tex" "thesis.pdf" "thesis" 1723768163 2
+["pdflatex"] 1728500047 "thesis.tex" "thesis.pdf" "thesis" 1728500048 2
   "/Users/thodorismexis/Library/texmf/tex/latex/local/softlab-thesis.cls" 1658857353 54471 57a80695ee2ac63cce74b6814e61f973 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -17,8 +17,8 @@
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1703349620 7883456 c1ae33fcb9d07025fb7758b9f9da2770 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "thesis.aux" 1723768159 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "thesis.tex" 1723768082 58475 9b56c51cb1d1b4dd044a63519a00c688 ""
+  "thesis.aux" 1723852059 8499 0a0dd293fcceff1fc56e8b72eddbd242 "pdflatex"
+  "thesis.tex" 1728500031 48618 30ccb347f64436c0412be3fe24abe6ad ""
   (generated)
   "thesis.aux"
   "thesis.log"
