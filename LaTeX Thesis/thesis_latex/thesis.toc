@@ -15,30 +15,21 @@
 \contentsline {chapter}{Κατάλογος σχημάτων}{13}{chapter*.7}%
 \addvspace {1em}
 \contentsline {chapter}{\numberline {1.}Εισαγωγή}{15}{chapter.8}%
-\contentsline {section}{\numberline {1.1}Σκοπός της εργασίας}{15}{section.9}%
-\contentsline {section}{\numberline {1.2}Η γλώσσα προγραμματισμού C++}{16}{section.10}%
-\contentsline {section}{\numberline {1.3}Δομή της εργασίας}{16}{section.12}%
-\contentsline {chapter}{\numberline {2.}Θεωρητικό υπόβαθρο}{19}{chapter.13}%
-\contentsline {section}{\numberline {2.1}Τεχνικές Προβλέψεων}{19}{section.14}%
-\contentsline {subsection}{\numberline {2.1.1}Ορισμός και Διαδικασία Πρόβλεψης}{19}{subsection.15}%
-\contentsline {subsection}{\numberline {2.1.2}Κατηγορίες Μεθόδων Πρόβλεψης}{19}{subsection.21}%
-\contentsline {section}{\numberline {2.2}Θεωρία πεδίων}{20}{section.22}%
-\contentsline {chapter}{\numberline {3.}Παρουσίαση Συνόλου Δεδομένων}{21}{chapter.23}%
-\contentsline {section}{\numberline {3.1}Προεπεξεργασία Δεδομένων}{21}{section.24}%
-\contentsline {chapter}{\numberline {4.}Μέθοδοι Πρόβλεψης Δικαστικών Αποφάσεων}{23}{chapter.25}%
-\contentsline {chapter}{\numberline {5.}Πειραματικά Αποτελέσματα - Ερμηνεία}{25}{chapter.26}%
-\contentsline {chapter}{\numberline {6.}Επίλογος}{27}{chapter.27}%
-\contentsline {part}{Κείμενο στα αγγλικά}{31}{part*.28}%
-\selectlanguage *{english}
-\contentsline {chapter}{\numberline {1.}Introduction}{31}{chapter.29}%
-\contentsline {section}{\numberline {1.1}The Goal of this Project}{31}{section.30}%
-\contentsline {section}{\numberline {1.2}The C++ Programming Language}{32}{section.31}%
-\contentsline {section}{\numberline {1.3}The Structure of this Thesis}{32}{section.33}%
-\contentsline {chapter}{\numberline {2.}Theoretical Background}{33}{chapter.34}%
-\contentsline {section}{\numberline {2.1}Programming Language Semantics}{33}{section.35}%
-\contentsline {section}{\numberline {2.2}Domain Theory}{34}{section.36}%
+\contentsline {chapter}{\numberline {2.}Θεωρητικό υπόβαθρο}{17}{chapter.9}%
+\contentsline {section}{\numberline {2.1}Τεχνικές Προβλέψεων}{17}{section.10}%
+\contentsline {subsection}{\numberline {2.1.1}Ορισμός και Διαδικασία Πρόβλεψης}{17}{subsection.11}%
+\contentsline {subsection}{\numberline {2.1.2}Κατηγορίες Μεθόδων Πρόβλεψης}{17}{subsection.17}%
+\contentsline {chapter}{\numberline {3.}Παρουσίαση Συνόλου Δεδομένων}{19}{chapter.18}%
+\contentsline {section}{\numberline {3.1}Προεπεξεργασία Δεδομένων}{19}{section.19}%
+\contentsline {section}{\numberline {3.2}Διαδικασία Επισημείωσης}{20}{section.27}%
+\contentsline {chapter}{\numberline {4.}Μέθοδοι Πρόβλεψης Δικαστικών Αποφάσεων}{21}{chapter.31}%
+\contentsline {section}{\numberline {4.1}Προετοιμασία Κειμένων}{21}{section.32}%
+\contentsline {section}{\numberline {4.2}Μέθοδοι Ταξινόμησης}{21}{section.33}%
+\contentsline {subsection}{\numberline {4.2.1}Τυχαία Δάση - Random Forests}{22}{subsection.34}%
+\contentsline {chapter}{\numberline {5.}Πειραματικά Αποτελέσματα - Ερμηνεία}{23}{chapter.35}%
+\contentsline {chapter}{\numberline {6.}Επίλογος}{25}{chapter.36}%
 \selectlanguage *{greek}
-\contentsline {part}{Παράρτημα}{37}{appendix*.37}%
-\contentsline {chapter}{\numberline {A.}Ευρετήριο συμβολισμών}{37}{appendix.38}%
-\contentsline {chapter}{\numberline {B.}Ευρετήριο γλωσσών}{39}{appendix.40}%
-\contentsline {chapter}{\numberline {C.}Ευρετήριο αριθμών}{41}{appendix.42}%
+\contentsline {part}{Παράρτημα}{27}{appendix*.37}%
+\contentsline {chapter}{\numberline {A.}Ευρετήριο συμβολισμών}{27}{appendix.38}%
+\contentsline {chapter}{\numberline {B.}Ευρετήριο γλωσσών}{29}{appendix.40}%
+\contentsline {chapter}{\numberline {C.}Ευρετήριο αριθμών}{31}{appendix.42}%
