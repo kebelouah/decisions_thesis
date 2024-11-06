@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+The style file: softlab-thesis.bst
+Database file #1: thesis.bib
+"" isn't a single character for entry 3
+while executing---line 1858 of file softlab-thesis.bst
+Warning--empty journal in 3
+You've used 3 entries,
+            2802 wiz_defined-function locations,
+            617 strings with 5212 characters,
+and the built_in function-call counts, 2780 in all, are:
+= -- 363
+> -- 173
+< -- 2
++ -- 9
+- -- 8
+* -- 204
+:= -- 446
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 13
+chr.to.int$ -- 5
+cite$ -- 4
+duplicate$ -- 49
+empty$ -- 76
+format.name$ -- 11
+if$ -- 456
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 3
+newline$ -- 19
+num.names$ -- 6
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 22
+quote$ -- 0
+skip$ -- 35
+stack$ -- 0
+substring$ -- 600
+swap$ -- 2
+text.length$ -- 147
+text.prefix$ -- 3
+top$ -- 0
+type$ -- 24
+warning$ -- 1
+while$ -- 15
+width$ -- 5
+write$ -- 47
+(There was 1 error message)
