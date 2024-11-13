@@ -1,20 +1,9 @@
 \providecommand\nbibitem[5][]{\bibitem[#1]{#2}}
-\begin{thebibliography}{Tier22}
+\begin{thebibliography}{Brei01}
 
-\nbibitem[Tier22]{3}{}{}{}
-P.~Tiersma,
+\nbibitem[Brei01]{4}{}{}{}
+Leo Breiman,
 \newblock ``The creation, structure, and interpretation of the legal text'',
-\newblock 2022.
-
-\nbibitem[Βλ22]{2}{}{}{}
-Μαγδαληνή-Χριστίνα Βλάχου-Βλαχοπούλου,
-\newblock ``Οι πηγές του Δικαίου'',
-\newblock {\em ΠΜΣ Δηµόσιο ∆ίκαιο, Εθνικό και
-  Καποδιστριακό Πανεπιστήµιο Αθηνών}, 2022.
-
-\nbibitem[Φ13]{1}{}{}{}
-Πετρόπουλος Φ. και Ασημακόπουλος Β.,
-\newblock ``Επιχειρησιακές Προβλέψεις'',
-\newblock {\em Συμμετρία}, 2013.
+\newblock {\em Machine Learning}, vol.~45, 2001.
 
 \end{thebibliography}
