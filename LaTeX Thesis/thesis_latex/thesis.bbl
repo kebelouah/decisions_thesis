@@ -1,7 +1,7 @@
 \providecommand\nbibitem[5][]{\bibitem[#1]{#2}}
 \begin{thebibliography}{Brei01}
 
-\nbibitem[Brei01]{4}{}{}{}
+\nbibitem[Brei01]{1}{}{}{}
 Leo Breiman,
 \newblock ``The creation, structure, and interpretation of the legal text'',
 \newblock {\em Machine Learning}, vol.~45, 2001.

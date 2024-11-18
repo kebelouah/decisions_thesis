@@ -16,30 +16,36 @@
 \addvspace {1em}
 \contentsline {chapter}{\numberline {1.}Εισαγωγή}{15}{chapter.8}%
 \contentsline {subsection}{\numberline {1.0.1}Νομικά Κείμενα}{15}{subsection.9}%
-\contentsline {chapter}{\numberline {2.}Θεωρητικό υπόβαθρο}{17}{chapter.14}%
-\contentsline {section}{\numberline {2.1}Τεχνικές Προβλέψεων}{17}{section.15}%
-\contentsline {subsection}{\numberline {2.1.1}Ορισμός και Διαδικασία Πρόβλεψης}{17}{subsection.16}%
-\contentsline {subsection}{\numberline {2.1.2}Κατηγορίες Μεθόδων Πρόβλεψης}{17}{subsection.22}%
-\contentsline {subsection}{\numberline {2.1.3}Μηχανική Μάθηση}{18}{subsection.26}%
-\contentsline {section}{\numberline {2.2}Μοντέλα Πρόβλεψης - Ταξινόμησης}{19}{section.30}%
-\contentsline {subsection}{\numberline {2.2.1}Δέντρα Αποφάσεων - Decision Trees}{19}{subsection.31}%
-\contentsline {subsection}{\numberline {2.2.2}Τυχαία Δάση - Random Forests}{20}{subsection.45}%
-\contentsline {subsection}{\numberline {2.2.3}Μηχανές Υποστήριξης Διανυσμάτων - SVM}{21}{subsection.53}%
-\contentsline {subsection}{\numberline {2.2.4}Γραμμική Παλινδρόμηση - Linear Regression}{22}{subsection.67}%
-\contentsline {section}{\numberline {2.3}Μετρικές Απόδοσης}{22}{section.68}%
-\contentsline {subsection}{\numberline {2.3.1}Accuracy}{22}{subsection.69}%
-\contentsline {subsection}{\numberline {2.3.2}F1 Score}{22}{subsection.70}%
-\contentsline {chapter}{\numberline {3.}Παρουσίαση Συνόλου Δεδομένων}{25}{chapter.71}%
-\contentsline {section}{\numberline {3.1}Προεπεξεργασία Δεδομένων}{25}{section.73}%
-\contentsline {section}{\numberline {3.2}Διαδικασία Επισημείωσης}{26}{section.81}%
-\contentsline {chapter}{\numberline {4.}Μέθοδοι Πρόβλεψης Δικαστικών Αποφάσεων}{29}{chapter.85}%
-\contentsline {section}{\numberline {4.1}Προετοιμασία Κειμένων}{29}{section.86}%
-\contentsline {section}{\numberline {4.2}Ρύθμιση Υπερπαραμέτρων των Μοντέλων}{29}{section.87}%
-\contentsline {section}{\numberline {4.3}Εκπαίδευση Μοντέλων}{31}{section.90}%
-\contentsline {subsection}{\numberline {4.3.1}Random Forest}{31}{subsection.91}%
-\contentsline {chapter}{\numberline {5.}Πειραματικά Αποτελέσματα - Ερμηνεία}{33}{chapter.92}%
-\contentsline {chapter}{\numberline {6.}Επίλογος}{35}{chapter.93}%
+\contentsline {subsection}{\numberline {1.0.2}Δικαστήρια}{16}{subsection.14}%
+\contentsline {chapter}{\numberline {2.}Θεωρητικό υπόβαθρο}{17}{chapter.15}%
+\contentsline {section}{\numberline {2.1}Τεχνικές Προβλέψεων}{17}{section.16}%
+\contentsline {subsection}{\numberline {2.1.1}Ορισμός και Διαδικασία Πρόβλεψης}{17}{subsection.17}%
+\contentsline {subsection}{\numberline {2.1.2}Κατηγορίες Μεθόδων Πρόβλεψης}{17}{subsection.23}%
+\contentsline {subsection}{\numberline {2.1.3}Μηχανική Μάθηση}{18}{subsection.27}%
+\contentsline {section}{\numberline {2.2}Μοντέλα Πρόβλεψης - Ταξινόμησης}{19}{section.31}%
+\contentsline {subsection}{\numberline {2.2.1}Δέντρα Αποφάσεων - Decision Trees}{19}{subsection.32}%
+\contentsline {subsection}{\numberline {2.2.2}Τυχαία Δάση - Random Forests}{20}{subsection.46}%
+\contentsline {subsection}{\numberline {2.2.3}Μηχανές Υποστήριξης Διανυσμάτων - SVM}{21}{subsection.54}%
+\contentsline {subsection}{\numberline {2.2.4}Γραμμική Παλινδρόμηση - Linear Regression}{23}{subsection.69}%
+\contentsline {section}{\numberline {2.3}Μετρικές Απόδοσης}{25}{section.84}%
+\contentsline {subsection}{\numberline {2.3.1} Accuracy}{25}{subsection.85}%
+\contentsline {subsection}{\numberline {2.3.2}F1 Score}{25}{subsection.86}%
+\contentsline {subsection}{\numberline {2.3.3}MCC - Mathews}{26}{subsection.88}%
+\contentsline {subsection}{\numberline {2.3.4}Confusion Matrix}{26}{subsection.90}%
+\contentsline {chapter}{\numberline {3.}Παρουσίαση Συνόλου Δεδομένων}{29}{chapter.93}%
+\contentsline {section}{\numberline {3.1}Προεπεξεργασία Δεδομένων}{29}{section.95}%
+\contentsline {section}{\numberline {3.2}Διαδικασία Επισημείωσης}{30}{section.103}%
+\contentsline {chapter}{\numberline {4.}Μέθοδοι Πρόβλεψης Δικαστικών Αποφάσεων}{33}{chapter.107}%
+\contentsline {section}{\numberline {4.1}Προετοιμασία Κειμένων}{33}{section.108}%
+\contentsline {section}{\numberline {4.2}Ρύθμιση Υπερπαραμέτρων των Μοντέλων}{34}{section.110}%
+\contentsline {section}{\numberline {4.3}Εκπαίδευση Μοντέλων}{36}{section.114}%
+\contentsline {subsection}{\numberline {4.3.1}Random Forest}{36}{subsection.115}%
+\contentsline {subsection}{\numberline {4.3.2}SVM}{36}{subsection.116}%
+\contentsline {subsection}{\numberline {4.3.3}Linear Regression}{37}{subsection.117}%
+\contentsline {subsection}{\numberline {4.3.4}Decision Trees}{37}{subsection.118}%
+\contentsline {chapter}{\numberline {5.}Πειραματικά Αποτελέσματα - Ερμηνεία}{39}{chapter.119}%
+\contentsline {chapter}{\numberline {6.}Επίλογος}{41}{chapter.120}%
 \selectlanguage *{greek}
 \addvspace {1em}
-\contentsline {chapter}{Βιβλιογραφία}{37}{chapter*.94}%
+\contentsline {chapter}{Βιβλιογραφία}{43}{chapter*.121}%
 \addvspace {1em}
