@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  18 NOV 2024 13:50
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  27 NOV 2024 17:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2362,6 +2362,9 @@ LaTeX Warning: Label `fig:your_image_label' multiply defined.
 
 LaTeX Warning: Label `fig:your_image_label' multiply defined.
 
+
+LaTeX Warning: Label `fig:your_image_label' multiply defined.
+
 )
 \openout1 = `thesis.aux'.
 
@@ -2758,60 +2761,57 @@ File: ~/Desktop/thesis_images/dectrees.png Graphic file (type bmp)
  [20]
 File: ~/Desktop/thesis_images/randfor.png Graphic file (type bmp)
 <~/Desktop/thesis_images/randfor.png>
- [21]
+ [21] [22]
 File: ~/Desktop/thesis_images/svm.png Graphic file (type bmp)
 <~/Desktop/thesis_images/svm.png>
 
-Underfull \vbox (badness 7273) has occurred while \output is active []
-
- [22]
-./thesis.tex:287: Missing $ inserted.
+./thesis.tex:307: Missing $ inserted.
 <inserted text> 
                 $
-l.287 \item \beta
+l.307 \item \beta
                  _0  είναι το σταθερό όρο (intercept).
 ? 
 
-./thesis.tex:288: LaTeX Error: Command \item invalid in math mode.
+./thesis.tex:308: LaTeX Error: Command \item invalid in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.288 \item
+l.308 \item
             \( \beta_1, \beta_2, \dots, \beta_n \) είναι οι συντελεστές παλι...
 
 ? 
 
-./thesis.tex:288: LaTeX Error: Something's wrong--perhaps a missing \item.
+./thesis.tex:308: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.288 \item \(
+l.308 \item \(
                \beta_1, \beta_2, \dots, \beta_n \) είναι οι συντελεστές παλι...
 
 ? 
 
-./thesis.tex:288: LaTeX Error: Something's wrong--perhaps a missing \item.
+./thesis.tex:308: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.288 \item \(
+l.308 \item \(
                \beta_1, \beta_2, \dots, \beta_n \) είναι οι συντελεστές παλι...
 
 ? 
 
-./thesis.tex:288: LaTeX Error: Bad math environment delimiter.
+./thesis.tex:308: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.288 \item \(
+l.308 \item \(
                \beta_1, \beta_2, \dots, \beta_n \) είναι οι συντελεστές παλι...
 
 ? 
@@ -2832,64 +2832,67 @@ Missing character: There is no ό ("3CC) in font cmmi10!
 Missing character: There is no ό ("3CC) in font cmmi10!
 Missing character: There is no ρ ("3C1) in font cmmi10!
 Missing character: There is no ο ("3BF) in font cmmi10!
-./thesis.tex:292: Undefined control sequence.
-l.292 ...με τη μέθοδο ελαχίστων τετραγώνων (\texit
+[23]
+./thesis.tex:312: Undefined control sequence.
+l.312 ...με τη μέθοδο ελαχίστων τετραγώνων (\texit
                                                   {Ordinary Least Squares - ...
 
 ? 
-./thesis.tex:294: Missing $ inserted.
+./thesis.tex:314: Missing $ inserted.
 <inserted text> 
                 $
-l.294 \text{Ελαχιστοποίηση του } \sum
+l.314 \text{Ελαχιστοποίηση του } \sum
                                       (y_{\text{πραγματικό}} - y_{\text{πρόβ...
 
 ? 
-./thesis.tex:295: Missing $ inserted.
+./thesis.tex:315: Missing $ inserted.
 <inserted text> 
                 $
-l.295 
+l.315 
       
 ? 
-./thesis.tex:295: Missing } inserted.
+./thesis.tex:315: Missing } inserted.
 <inserted text> 
                 }
-l.295 
+l.315 
       
 ? 
-./thesis.tex:295: Extra }, or forgotten \endgroup.
+./thesis.tex:315: Extra }, or forgotten \endgroup.
 \@par ... \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.295 
+l.315 
       
 ? 
-[23]
 File: ~/Desktop/thesis_images/lr.jpeg Graphic file (type bmp)
 <~/Desktop/thesis_images/lr.jpeg>
 
-./thesis.tex:324: Missing $ inserted.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+./thesis.tex:345: Missing $ inserted.
 <inserted text> 
                 $
-l.324 Y = b_
+l.345 Y = b_
             0 + b_1 X_{i1} + b_2 X_{i2} + \cdots + b_i X_{ip} + e_i, \quad \...
 
 ? 
-./thesis.tex:325: Missing $ inserted.
+./thesis.tex:346: Missing $ inserted.
 <inserted text> 
                 $
-l.325 
+l.346 
       
 ? 
-./thesis.tex:327: Missing $ inserted.
+[24]
+./thesis.tex:348: Missing $ inserted.
 <inserted text> 
                 $
-l.327 ...σχέση, Y είναι η εξαρτημένη μεταβλητή, X_
+l.348 ...σχέση, Y είναι η εξαρτημένη μεταβλητή, X_
                                                   {ij} είναι το i-οστό δείγμ...
 
 ? 
-./thesis.tex:328: Missing $ inserted.
+./thesis.tex:349: Missing $ inserted.
 <inserted text> 
                 $
-l.328 
+l.349 
       
 ? 
 Missing character: There is no ε ("3B5) in font cmmi10!
@@ -3124,98 +3127,98 @@ Missing character: There is no ι ("3B9) in font cmmi10!
 Missing character: There is no ώ ("3CE) in font cmmi10!
 Missing character: There is no ν ("3BD) in font cmmi10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--328
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
 []\TU/TimesNewRoman(1)/m/n/10.95 Στην παραπάνω σχέση, Y είναι η εξαρτημένη μετα
 βλητή, X$[]\OML/cmm/m/it/10.95 i \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 jX
 ; j \OT1/cmr/m/n/10.95 =
  []
 
-[24]
-./thesis.tex:329: Missing $ inserted.
+./thesis.tex:350: Missing $ inserted.
 <inserted text> 
                 $
-l.329 L(X, y) = \sum
+l.350 L(X, y) = \sum
                     _{i=1}^n (\hat{y}_i - y_i)^2 = \sum_{i=1}^n (b \cdot X_i...
 
 ? 
-./thesis.tex:330: Missing $ inserted.
+./thesis.tex:351: Missing $ inserted.
 <inserted text> 
                 $
-l.330 
+l.351 
       
 ? 
-[25] [26] [27] [28
+[25]
+File: ~/Desktop/thesis_images/logreg.png Graphic file (type bmp)
+<~/Desktop/thesis_images/logreg.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26] [27] [28] [29] [30
 
 ]
 Κεφάλαιο 3.
 
-Underfull \hbox (badness 5331) in paragraph at lines 465--467
+Underfull \hbox (badness 5331) in paragraph at lines 543--545
 \TU/TimesNewRoman(1)/m/n/10.95 το Εφετείο Πειραιώς [][](https://www.efeteio-pei
 r.gr/?page_id=4017)[][] και από τον Άρειο Πάγο
  []
 
 
-Underfull \hbox (badness 1184) in paragraph at lines 465--467
+Underfull \hbox (badness 1184) in paragraph at lines 543--545
 [][]\TU/TimesNewRoman(1)/m/n/10.95 (https://www.areiospagos.gr/nomologia/apofas
 eis.asp)[][]. Πρόκειται για αποφάσεις που ελήφθησαν
  []
 
 File: ~/Desktop/thesis_images/dataset.png Graphic file (type bmp)
 <~/Desktop/thesis_images/dataset.png>
-[29] [30] [31] [32
+[31] [32] [33] [34
 
 ]
 Κεφάλαιο 4.
 File: ~/Desktop/thesis_images/tfidf.png Graphic file (type bmp)
 <~/Desktop/thesis_images/tfidf.png>
 
-Underfull \hbox (badness 4927) in paragraph at lines 526--527
+Underfull \hbox (badness 4927) in paragraph at lines 610--611
 []\TU/TimesNewRoman(1)/m/n/10.95 Οι μεταβλητές maxdf και mindf, που αποτελούν ε
 πίσης παραμέτρους του Tf-
  []
 
-[33] [34]
+[35] [36]
 File: ~/Desktop/thesis_images/gridrand.png Graphic file (type bmp)
 <~/Desktop/thesis_images/gridrand.png>
 
-./thesis.tex:566: Undefined control sequence.
-l.566 ... (\textit{features}) και ετικέτες (\texit
+./thesis.tex:650: Undefined control sequence.
+l.650 ... (\textit{features}) και ετικέτες (\texit
                                                   {labels}). Στη συνέχεια, π...
 
 ? 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35]
-Underfull \hbox (badness 1189) in paragraph at lines 570--571
-[]\TU/TimesNewRoman(1)/m/n/10.95 Με τη χρήση του GridSearchCV, το μοντέλο εκπαι
-δεύεται με διαφορετικούς συν-
- []
-
-./thesis.tex:575: Undefined control sequence.
-l.575 ...δεύεται από ένα πλέγμα παραμέτρων (\texit
+ [37]
+./thesis.tex:658: Undefined control sequence.
+l.658 ...δεύεται από ένα πλέγμα παραμέτρων (\texit
                                                   {param\_grid}) που περιλαμ...
 
 ? 
-./thesis.tex:575: Undefined control sequence.
-l.575 ...υ GridSearchCV και την πεντάπτυχη (\texit
+./thesis.tex:658: Undefined control sequence.
+l.658 ...υ GridSearchCV και την πεντάπτυχη (\texit
                                                   {5-fold}) διασταυρούμενη ε...
 
 ? 
-./thesis.tex:577: Undefined control sequence.
-l.577 ...υ αξιολογείται μέσω της ακρίβειας (\texit
-                                                  {accuracy}), του F1 Score,...
 
-? 
-[36] [37] [38
+Underfull \vbox (badness 1755) has occurred while \output is active []
 
-]
-Κεφάλαιο 5.
+ [38]
 [39] [40
 
 ]
+Κεφάλαιο 5.
+[41] [42
+
+]
 Κεφάλαιο 6.
-(./thesis.bbl [41] [42
+(./thesis.bbl [43] [44
 
 ])
 The property list \polyglossia@langsetup contains the pairs (without outer
@@ -3320,17 +3323,17 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 >  {newzealand/options}  =>  {variant=newzealand}.
 
 
-./thesis.tex:607: LaTeX Error: \begin{enumerate} on input line 495 ended by \en
+./thesis.tex:704: LaTeX Error: \begin{enumerate} on input line 579 ended by \en
 d{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.607 \end{document}
+l.704 \end{document}
                     
 ? 
-[43] (./thesis.aux
+[45] (./thesis.aux
 Package polyglossia Info: Option: Monotonic Greek.
 Package polyglossia Info: Option: Monotonic Greek.
 Package polyglossia Info: Option: Monotonic Greek.
@@ -3372,23 +3375,29 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: C8E163F445913499CEFAC32F7A14B0DA;7291.
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: AC44110E97914FAB2D51EFF26CD12842;7864
+(rerunfilecheck)             After:  55A5D39EDD34101ABB4985A431C37E01;7922.
 runsystem(rm thesis.pyg)...disabled (restricted).
 
  )
 (\end occurred inside a group at level 2)
 
-### semi simple group (level 2) entered at line 495 (\begingroup)
-### semi simple group (level 1) entered at line 481 (\begingroup)
+### semi simple group (level 2) entered at line 579 (\begingroup)
+### semi simple group (level 1) entered at line 565 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 20732 strings out of 476683
- 426429 string characters out of 5804046
+ 20740 strings out of 476683
+ 426712 string characters out of 5804046
  1861018 words of memory out of 5000000
- 40608 multiletter control sequences out of 15000+600000
+ 40615 multiletter control sequences out of 15000+600000
  522412 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  87i,9n,133p,10099b,754s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis.pdf (43 pages).
+Output written on thesis.pdf (45 pages).
