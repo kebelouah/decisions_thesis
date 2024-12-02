@@ -1,46 +1,48 @@
 This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: thesis.aux
-The style file: softlab-thesis.bst
+The style file: plainnat.bst
 Database file #1: thesis.bib
-You've used 1 entry,
-            2802 wiz_defined-function locations,
-            612 strings with 4869 characters,
-and the built_in function-call counts, 1104 in all, are:
-= -- 148
-> -- 68
-< -- 1
-+ -- 3
-- -- 2
-* -- 83
-:= -- 180
-add.period$ -- 1
-call.type$ -- 1
-change.case$ -- 4
-chr.to.int$ -- 1
-cite$ -- 1
-duplicate$ -- 17
-empty$ -- 26
-format.name$ -- 3
-if$ -- 179
+Warning--empty journal in 5
+You've used 5 entries,
+            2773 wiz_defined-function locations,
+            613 strings with 5453 characters,
+and the built_in function-call counts, 1688 in all, are:
+= -- 149
+> -- 72
+< -- 5
++ -- 26
+- -- 21
+* -- 99
+:= -- 280
+add.period$ -- 17
+call.type$ -- 5
+change.case$ -- 22
+chr.to.int$ -- 5
+cite$ -- 11
+duplicate$ -- 95
+empty$ -- 151
+format.name$ -- 30
+if$ -- 346
 int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 1
-newline$ -- 9
-num.names$ -- 2
-pop$ -- 6
+int.to.str$ -- 1
+missing$ -- 5
+newline$ -- 35
+num.names$ -- 20
+pop$ -- 43
 preamble$ -- 1
-purify$ -- 7
+purify$ -- 17
 quote$ -- 0
-skip$ -- 12
+skip$ -- 74
 stack$ -- 0
-substring$ -- 248
-swap$ -- 2
-text.length$ -- 62
-text.prefix$ -- 1
+substring$ -- 10
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
-warning$ -- 0
-while$ -- 5
-width$ -- 2
-write$ -- 19
+type$ -- 55
+warning$ -- 1
+while$ -- 15
+width$ -- 0
+write$ -- 72
+(There was 1 warning)

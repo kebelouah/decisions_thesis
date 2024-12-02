@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  27 NOV 2024 17:36
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  2 DEC 2024 17:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2153,6 +2153,41 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
+(/usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen173
+\ar@mcellbox=\box67
+\extrarowheight=\dimen174
+\NC@list=\toks34
+\extratabsurround=\skip61
+\backup@length=\skip62
+\ar@cellbox=\box68
+)
+\everycr=\toks35
+\minrowclearance=\skip63
+\rownum=\count322
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
 (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
 
@@ -2181,18 +2216,18 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count322
+\c@section@level=\count323
 )
-\@linkdim=\dimen173
-\Hy@linkcounter=\count323
-\Hy@pagecounter=\count324
+\@linkdim=\dimen175
+\Hy@linkcounter=\count324
+\Hy@pagecounter=\count325
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count325
+\Hy@SavedSpaceFactor=\count326
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
@@ -2222,9 +2257,9 @@ Package hyperref Info: Plain pages OFF on input line 4192.
 Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4425.
-\c@Hy@tempcnt=\count326
+\c@Hy@tempcnt=\count327
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen174
+\XeTeXLinkMargin=\dimen176
 
 (/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -2233,9 +2268,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count327
-\Field@Width=\dimen175
-\Fld@charsize=\dimen176
+\Fld@menulength=\count328
+\Field@Width=\dimen177
+\Fld@charsize=\dimen178
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -2248,19 +2283,19 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count328
-\c@Item=\count329
-\c@Hfootnote=\count330
+\Hy@abspage=\count329
+\c@Item=\count330
+\c@Hfootnote=\count331
 )
 Package hyperref Info: Driver: hxetex.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2023-02-07 v7.00v Hyperref driver for XeTeX
-\pdfm@box=\box67
-\c@Hy@AnnotLevel=\count331
-\HyField@AnnotCount=\count332
-\Fld@listcount=\count333
-\c@bookmark@seq@number=\count334
+\pdfm@box=\box69
+\c@Hy@AnnotLevel=\count332
+\HyField@AnnotCount=\count333
+\Fld@listcount=\count334
+\c@bookmark@seq@number=\count335
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
@@ -2275,24 +2310,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip61
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: xetex.def on input line 227.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
-Package xcolor Info: Model `RGB' extended on input line 1369.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+\Hy@SectionHShift=\skip64
 )
 runsystem(which pygmentize && touch thesis.aex)...disabled (restricted).
 
@@ -2343,6 +2361,39 @@ Package polyglossia Info: Option: Monotonic Greek.
 Package polyglossia Info: Option: Monotonic Greek.
 Package polyglossia Info: Option: Monotonic Greek.
 Package polyglossia Info: Option: Monotonic Greek.
+
+
+LaTeX Warning: Label `fig:your_image_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:your_image_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:your_image_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:your_image_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:your_image_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:your_image_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:your_image_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:your_image_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:your_image_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:your_image_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:your_image_label' multiply defined.
 
 
 LaTeX Warning: Label `fig:your_image_label' multiply defined.
@@ -2761,57 +2812,60 @@ File: ~/Desktop/thesis_images/dectrees.png Graphic file (type bmp)
  [20]
 File: ~/Desktop/thesis_images/randfor.png Graphic file (type bmp)
 <~/Desktop/thesis_images/randfor.png>
- [21] [22]
+ [21]
+File: ~/Desktop/thesis_images/xgboost.png Graphic file (type bmp)
+<~/Desktop/thesis_images/xgboost.png>
+ [22]
 File: ~/Desktop/thesis_images/svm.png Graphic file (type bmp)
 <~/Desktop/thesis_images/svm.png>
-
-./thesis.tex:307: Missing $ inserted.
+ [23]
+./thesis.tex:316: Missing $ inserted.
 <inserted text> 
                 $
-l.307 \item \beta
+l.316 \item \beta
                  _0  είναι το σταθερό όρο (intercept).
 ? 
 
-./thesis.tex:308: LaTeX Error: Command \item invalid in math mode.
+./thesis.tex:317: LaTeX Error: Command \item invalid in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.308 \item
+l.317 \item
             \( \beta_1, \beta_2, \dots, \beta_n \) είναι οι συντελεστές παλι...
 
 ? 
 
-./thesis.tex:308: LaTeX Error: Something's wrong--perhaps a missing \item.
+./thesis.tex:317: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.308 \item \(
+l.317 \item \(
                \beta_1, \beta_2, \dots, \beta_n \) είναι οι συντελεστές παλι...
 
 ? 
 
-./thesis.tex:308: LaTeX Error: Something's wrong--perhaps a missing \item.
+./thesis.tex:317: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.308 \item \(
+l.317 \item \(
                \beta_1, \beta_2, \dots, \beta_n \) είναι οι συντελεστές παλι...
 
 ? 
 
-./thesis.tex:308: LaTeX Error: Bad math environment delimiter.
+./thesis.tex:317: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.308 \item \(
+l.317 \item \(
                \beta_1, \beta_2, \dots, \beta_n \) είναι οι συντελεστές παλι...
 
 ? 
@@ -2832,67 +2886,62 @@ Missing character: There is no ό ("3CC) in font cmmi10!
 Missing character: There is no ό ("3CC) in font cmmi10!
 Missing character: There is no ρ ("3C1) in font cmmi10!
 Missing character: There is no ο ("3BF) in font cmmi10!
-[23]
-./thesis.tex:312: Undefined control sequence.
-l.312 ...με τη μέθοδο ελαχίστων τετραγώνων (\texit
+./thesis.tex:321: Undefined control sequence.
+l.321 ...με τη μέθοδο ελαχίστων τετραγώνων (\texit
                                                   {Ordinary Least Squares - ...
 
 ? 
-./thesis.tex:314: Missing $ inserted.
+./thesis.tex:323: Missing $ inserted.
 <inserted text> 
                 $
-l.314 \text{Ελαχιστοποίηση του } \sum
-                                      (y_{\text{πραγματικό}} - y_{\text{πρόβ...
-
+l.323 Ελαχιστοποίηση του \sum
+                              (y_{\text{πραγματικό}} - y_{\text{πρόβλεψη}})^2
 ? 
-./thesis.tex:315: Missing $ inserted.
+./thesis.tex:324: Missing $ inserted.
 <inserted text> 
                 $
-l.315 
+l.324 
       
 ? 
-./thesis.tex:315: Missing } inserted.
+./thesis.tex:324: Missing } inserted.
 <inserted text> 
                 }
-l.315 
+l.324 
       
 ? 
-./thesis.tex:315: Extra }, or forgotten \endgroup.
+./thesis.tex:324: Extra }, or forgotten \endgroup.
 \@par ... \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.315 
+l.324 
       
 ? 
 File: ~/Desktop/thesis_images/lr.jpeg Graphic file (type bmp)
 <~/Desktop/thesis_images/lr.jpeg>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-./thesis.tex:345: Missing $ inserted.
+[24]
+./thesis.tex:352: Missing $ inserted.
 <inserted text> 
                 $
-l.345 Y = b_
+l.352 Y = b_
             0 + b_1 X_{i1} + b_2 X_{i2} + \cdots + b_i X_{ip} + e_i, \quad \...
 
 ? 
-./thesis.tex:346: Missing $ inserted.
+./thesis.tex:353: Missing $ inserted.
 <inserted text> 
                 $
-l.346 
+l.353 
       
 ? 
-[24]
-./thesis.tex:348: Missing $ inserted.
+./thesis.tex:355: Missing $ inserted.
 <inserted text> 
                 $
-l.348 ...σχέση, Y είναι η εξαρτημένη μεταβλητή, X_
+l.355 ...σχέση, Y είναι η εξαρτημένη μεταβλητή, X_
                                                   {ij} είναι το i-οστό δείγμ...
 
 ? 
-./thesis.tex:349: Missing $ inserted.
+./thesis.tex:356: Missing $ inserted.
 <inserted text> 
                 $
-l.349 
+l.356 
       
 ? 
 Missing character: There is no ε ("3B5) in font cmmi10!
@@ -3127,23 +3176,23 @@ Missing character: There is no ι ("3B9) in font cmmi10!
 Missing character: There is no ώ ("3CE) in font cmmi10!
 Missing character: There is no ν ("3BD) in font cmmi10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+Underfull \hbox (badness 10000) in paragraph at lines 355--356
 []\TU/TimesNewRoman(1)/m/n/10.95 Στην παραπάνω σχέση, Y είναι η εξαρτημένη μετα
 βλητή, X$[]\OML/cmm/m/it/10.95 i \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 jX
 ; j \OT1/cmr/m/n/10.95 =
  []
 
-./thesis.tex:350: Missing $ inserted.
+./thesis.tex:357: Missing $ inserted.
 <inserted text> 
                 $
-l.350 L(X, y) = \sum
+l.357 L(X, y) = \sum
                     _{i=1}^n (\hat{y}_i - y_i)^2 = \sum_{i=1}^n (b \cdot X_i...
 
 ? 
-./thesis.tex:351: Missing $ inserted.
+./thesis.tex:358: Missing $ inserted.
 <inserted text> 
                 $
-l.351 
+l.358 
       
 ? 
 [25]
@@ -3153,74 +3202,521 @@ File: ~/Desktop/thesis_images/logreg.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[26] [27] [28] [29] [30
-
-]
+[26] [27] [28]
+./thesis.tex:512: Extra }, or forgotten $.
+l.512 ...frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2}}
+                                                  
+? 
+./thesis.tex:518: Extra }, or forgotten $.
+l.518 ...}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2}}
+                                                  
+? 
+[29] [30]
 Κεφάλαιο 3.
 
-Underfull \hbox (badness 5331) in paragraph at lines 543--545
+Underfull \hbox (badness 5331) in paragraph at lines 568--571
 \TU/TimesNewRoman(1)/m/n/10.95 το Εφετείο Πειραιώς [][](https://www.efeteio-pei
 r.gr/?page_id=4017)[][] και από τον Άρειο Πάγο
  []
 
 
-Underfull \hbox (badness 1184) in paragraph at lines 543--545
+Underfull \hbox (badness 1184) in paragraph at lines 568--571
 [][]\TU/TimesNewRoman(1)/m/n/10.95 (https://www.areiospagos.gr/nomologia/apofas
 eis.asp)[][]. Πρόκειται για αποφάσεις που ελήφθησαν
  []
 
 File: ~/Desktop/thesis_images/dataset.png Graphic file (type bmp)
 <~/Desktop/thesis_images/dataset.png>
-[31] [32] [33] [34
+[31
+
+] [32] [33] [34
 
 ]
 Κεφάλαιο 4.
 File: ~/Desktop/thesis_images/tfidf.png Graphic file (type bmp)
 <~/Desktop/thesis_images/tfidf.png>
 
-Underfull \hbox (badness 4927) in paragraph at lines 610--611
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 637--638
 []\TU/TimesNewRoman(1)/m/n/10.95 Οι μεταβλητές maxdf και mindf, που αποτελούν ε
 πίσης παραμέτρους του Tf-
  []
 
-[35] [36]
+
+Underfull \vbox (badness 3343) has occurred while \output is active []
+
+ [35]
+[36]
 File: ~/Desktop/thesis_images/gridrand.png Graphic file (type bmp)
 <~/Desktop/thesis_images/gridrand.png>
-
-./thesis.tex:650: Undefined control sequence.
-l.650 ... (\textit{features}) και ετικέτες (\texit
-                                                  {labels}). Στη συνέχεια, π...
-
-? 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [37]
-./thesis.tex:658: Undefined control sequence.
-l.658 ...δεύεται από ένα πλέγμα παραμέτρων (\texit
+./thesis.tex:679: Undefined control sequence.
+l.679 ... (\textit{features}) και ετικέτες (\texit
+                                                  {labels}). Η παράμετρος st...
+
+? 
+[38]
+./thesis.tex:729: Undefined control sequence.
+l.729 ...δεύεται από ένα πλέγμα παραμέτρων (\texit
                                                   {param\_grid}) που περιλαμ...
 
 ? 
-./thesis.tex:658: Undefined control sequence.
-l.658 ...υ GridSearchCV και την πεντάπτυχη (\texit
+./thesis.tex:729: Undefined control sequence.
+l.729 ...υ GridSearchCV και την πεντάπτυχη (\texit
                                                   {5-fold}) διασταυρούμενη ε...
 
 ? 
-
-Underfull \vbox (badness 1755) has occurred while \output is active []
-
- [38]
-[39] [40
+[39] [40] [41] [42
 
 ]
 Κεφάλαιο 5.
-[41] [42
+[43]
+File: ~/Desktop/thesis_images/rf_ef_cm.png Graphic file (type bmp)
+<~/Desktop/thesis_images/rf_ef_cm.png>
+File: ~/Desktop/thesis_images/dt_ef_cm.png Graphic file (type bmp)
+<~/Desktop/thesis_images/dt_ef_cm.png>
+File: ~/Desktop/thesis_images/svm_ef_cm.png Graphic file (type bmp)
+<~/Desktop/thesis_images/svm_ef_cm.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
+File: ~/Desktop/thesis_images/xgb_ef_cm.png Graphic file (type bmp)
+<~/Desktop/thesis_images/xgb_ef_cm.png>
+File: ~/Desktop/thesis_images/lr_ef_cm.png Graphic file (type bmp)
+<~/Desktop/thesis_images/lr_ef_cm.png>
+
+Underfull \vbox (badness 2707) has occurred while \output is active []
+
+ [45]
+File: ~/Desktop/thesis_images/rf_ap_cm.png Graphic file (type bmp)
+<~/Desktop/thesis_images/rf_ap_cm.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46]
+File: ~/Desktop/thesis_images/xgb_ap_cm.png Graphic file (type bmp)
+<~/Desktop/thesis_images/xgb_ap_cm.png>
+File: ~/Desktop/thesis_images/svm_ap_cm.png Graphic file (type bmp)
+<~/Desktop/thesis_images/svm_ap_cm.png>
+File: ~/Desktop/thesis_images/dt_ap_cm.png Graphic file (type bmp)
+<~/Desktop/thesis_images/dt_ap_cm.png>
+
+[47]
+File: ~/Desktop/thesis_images/lr_ap_cm.png Graphic file (type bmp)
+<~/Desktop/thesis_images/lr_ap_cm.png>
+ [48]
+Κεφάλαιο 6.
+(./thesis.bbl [49
+
+] [50
 
 ]
-Κεφάλαιο 6.
-(./thesis.bbl [43] [44
-
-])
+./thesis.bbl:12: Number too big.
+optional@arg ->10000000000
+                          00000000000000000000000000000000000000000000000000...
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: Dimension too large.
+<recently read> @tempdimb 
+                          
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+LaTeX Font Info:    Font shape `TU/LiberationMono(1)/m/n' will be
+(Font)              scaled to size 16383.99998pt on input line 12.
+./thesis.bbl:12: Improper `at' size (16383.99998pt), replaced by 10pt.
+<to be read again> 
+                   relax 
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: Font TU/LiberationMono(1)/m/n/10.95="Liberation Mono/OT" at 10
+.0pt not loadable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character h).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character t).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character t).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character p).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character s).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character :).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character /).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character /).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character d).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character o).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character i).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character .).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character o).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character r).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character g).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character /).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 1).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 0).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character .).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 1).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 0).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 2).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 3).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character /).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character A).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character :).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 1).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 0).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 1).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 0).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 9).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 3).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 3).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 4).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 0).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 4).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 3).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 2).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:12: \textfont 0 is undefined (character 4).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.12 ...l{https://doi.org/10.1023/A:1010933404324}
+                                                  .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 1).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 0).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character .).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 1).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 0).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 0).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 7).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character /).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 0).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character -).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 3).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 8).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 7).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character -).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 2).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 5).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 4).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 6).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 5).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character -).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character X).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character _).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+./thesis.bbl:18: \textfont 0 is undefined (character 9).
+\Url@FormatString ...\Url@String \UrlRight \m@th $
+                                                  
+l.18 \newblock URL \url{10.1007/0-387-25465-X_9}
+                                                .
+? 
+)
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -3323,17 +3819,17 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 >  {newzealand/options}  =>  {variant=newzealand}.
 
 
-./thesis.tex:704: LaTeX Error: \begin{enumerate} on input line 579 ended by \en
-d{document}.
+./thesis.tex:1080: LaTeX Error: \begin{enumerate} on input line 605 ended by \e
+nd{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.704 \end{document}
-                    
+l.1080 \end{document}
+                     
 ? 
-[45] (./thesis.aux
+[51] (./thesis.aux
 Package polyglossia Info: Option: Monotonic Greek.
 Package polyglossia Info: Option: Monotonic Greek.
 Package polyglossia Info: Option: Monotonic Greek.
@@ -3375,29 +3871,23 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: AC44110E97914FAB2D51EFF26CD12842;7864
-(rerunfilecheck)             After:  55A5D39EDD34101ABB4985A431C37E01;7922.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 7B6788BCB9AED8E9EEF6B4764A310635;11926.
 runsystem(rm thesis.pyg)...disabled (restricted).
 
  )
 (\end occurred inside a group at level 2)
 
-### semi simple group (level 2) entered at line 579 (\begingroup)
-### semi simple group (level 1) entered at line 565 (\begingroup)
+### semi simple group (level 2) entered at line 605 (\begingroup)
+### semi simple group (level 1) entered at line 591 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 20740 strings out of 476683
- 426712 string characters out of 5804046
- 1861018 words of memory out of 5000000
- 40615 multiletter control sequences out of 15000+600000
+ 20975 strings out of 476683
+ 432371 string characters out of 5804046
+ 1860018 words of memory out of 5000000
+ 40833 multiletter control sequences out of 15000+600000
  522412 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 87i,9n,133p,10099b,754s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,10n,133p,10099b,757s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis.pdf (45 pages).
+Output written on thesis.pdf (51 pages).
