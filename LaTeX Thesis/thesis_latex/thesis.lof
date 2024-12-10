@@ -17,46 +17,49 @@
 \addvspace {10pt}
 \setforeignlanguage {greek}
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Αποφάσεις Δικαστηρίων}}{31}{figure.102}%
-\addvspace {10pt}
-\setforeignlanguage {greek}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Αναπαράσταση TF-IDF}}{36}{figure.117}%
-\setforeignlanguage {greek}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Grid vs Random Search Model}}{38}{figure.121}%
-\setforeignlanguage {greek}
-\setforeignlanguage {greek}
-\setforeignlanguage {greek}
-\setforeignlanguage {greek}
-\setforeignlanguage {greek}
-\setforeignlanguage {greek}
-\setforeignlanguage {greek}
-\setforeignlanguage {greek}
-\setforeignlanguage {greek}
 \setforeignlanguage {greek}
 \addvspace {10pt}
 \setforeignlanguage {greek}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Αναπαράσταση TF-IDF}}{36}{figure.118}%
 \setforeignlanguage {greek}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Σχηματική απεικόνιση της τεχνικής 5-fold Cross-Validations}}{38}{figure.122}%
 \setforeignlanguage {greek}
-\setforeignlanguage {greek}
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Randrom Forest CM}}{45}{figure.147}%
-\setforeignlanguage {greek}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Decision Trees CM}}{45}{figure.148}%
-\setforeignlanguage {greek}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces SVM CM}}{45}{figure.149}%
-\setforeignlanguage {greek}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces XGBoost CM}}{46}{figure.150}%
-\setforeignlanguage {greek}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Logistic Regression CM}}{46}{figure.151}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Grid vs Random Search Model}}{38}{figure.123}%
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}
 \setforeignlanguage {greek}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Random Forest CM}}{48}{figure.160}%
 \setforeignlanguage {greek}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces XGBoost CM}}{48}{figure.161}%
 \setforeignlanguage {greek}
-\contentsline {figure}{\numberline {5.8}{\ignorespaces SVM CM}}{48}{figure.162}%
 \setforeignlanguage {greek}
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Decision Trees CM}}{49}{figure.163}%
 \setforeignlanguage {greek}
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Logistic Regression CM}}{49}{figure.164}%
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\addvspace {10pt}
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Randrom Forest CM}}{45}{figure.149}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Decision Trees CM}}{45}{figure.150}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces SVM CM}}{46}{figure.151}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces XGBoost CM}}{46}{figure.152}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Logistic Regression CM}}{46}{figure.153}%
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Random Forest CM}}{48}{figure.162}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces XGBoost CM}}{49}{figure.163}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces SVM CM}}{49}{figure.164}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Decision Trees CM}}{49}{figure.165}%
+\setforeignlanguage {greek}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Logistic Regression CM}}{50}{figure.166}%
 \addvspace {10pt}
