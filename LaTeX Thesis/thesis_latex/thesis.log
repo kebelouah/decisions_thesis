@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  3 DEC 2024 15:38
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.23)  10 DEC 2024 13:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2034,14 +2034,14 @@ runsystem(mkdir -p _minted-thesis)...disabled (restricted).
 
 
 
-./thesis.tex:8: Package minted Error: You must invoke LaTeX with the -shell-esc
+./thesis.tex:9: Package minted Error: You must invoke LaTeX with the -shell-esc
 ape flag.
 
 See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 \usepackage
+l.9 \usepackage
                {Times New Roman}
 ? 
 
@@ -2316,14 +2316,14 @@ runsystem(which pygmentize && touch thesis.aex)...disabled (restricted).
 
 
 
-./thesis.tex:35: Package minted Error: You must have `pygmentize' installed to 
+./thesis.tex:36: Package minted Error: You must have `pygmentize' installed to 
 use this package.
 
 See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 \begin{document}
+l.36 \begin{document}
                      
 ? 
 (./thesis.aux
@@ -2425,104 +2425,104 @@ LaTeX Warning: Label `fig:your_image_label' multiply defined.
 )
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-5.
+6.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 35.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 35
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 36.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 36
 .
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 35.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 35.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 35.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 35.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 35.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 35.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 35.
-LaTeX Font Info:    Redeclaring math accent \check on input line 35.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 35.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 35.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 35.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 35.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 36.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 36.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 36.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 36.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 36.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 36.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 36.
+LaTeX Font Info:    Redeclaring math accent \check on input line 36.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 36.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 36.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 36.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 36.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 35.
+(Font)              `operators' in the math version `normal' on input line 36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 3
-5.
+6.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 35.
+(Font)              `operators' in the math version `bold' on input line 36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
-35.
+36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
-input line 35.
+input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
- 35.
+ 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
-35.
+36.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/Arial(0)/m/n on input line 35.
+(Font)                  OT1/cmss/m/n --> TU/Arial(0)/m/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/LiberationMono(0)/m/n on input line
- 35.
+ 36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
-input line 35.
+input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
-e 35.
+e 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/Arial(0)/b/n on input line 35.
+(Font)                  OT1/cmss/bx/n --> TU/Arial(0)/b/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/LiberationMono(0)/b/n on input line
- 35.
+ 36.
 The property list \__xpg_alias contains the pairs (without outer braces):
 >  {latex/target}  =>  {latex}
 >  {greek/target}  =>  {greek}
@@ -2570,7 +2570,7 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 >  {newzealand/target}  =>  {english}
 >  {newzealand/variant}  =>  {newzealand}
 >  {newzealand/options}  =>  {variant=newzealand}.
-Package hyperref Info: Link coloring ON on input line 35.
+Package hyperref Info: Link coloring ON on input line 36.
  (./thesis.out)
 (./thesis.out)
 \@outlinefile=\write5
@@ -2582,21 +2582,21 @@ Package polyglossia Info: Option: Monotonic Greek.
 Package polyglossia Info: Option: Monotonic Greek.
 
 
-./thesis.tex:61: LaTeX Error: File `pyrforos' not found.
+./thesis.tex:62: LaTeX Error: File `pyrforos' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 
+l.62 
      
 ? 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 61.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 62.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 61.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 62.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -2604,7 +2604,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 LaTeX Font Warning: Font shape `TU/TimesNewRoman(1)/m/sc' undefined
-(Font)              using `TU/TimesNewRoman(1)/m/n' instead on input line 61.
+(Font)              using `TU/TimesNewRoman(1)/m/n' instead on input line 62.
 
 [1
 
@@ -2614,26 +2614,26 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman(1)/m/sc' undefined
 
 ]
 
-./thesis.tex:61: LaTeX Error: File `pyrforos' not found.
+./thesis.tex:62: LaTeX Error: File `pyrforos' not found.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 
+l.62 
      
 ? 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 61--61
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
 
  []
 
 [4]
 Package polyglossia Info: Option: Monotonic Greek.
 Package polyglossia Info: Option: Monotonic Greek.
-LaTeX Info: Redefining \rmfamily on input line 78.
-LaTeX Info: Redefining \sffamily on input line 78.
-LaTeX Info: Redefining \ttfamily on input line 78.
+LaTeX Info: Redefining \rmfamily on input line 79.
+LaTeX Info: Redefining \sffamily on input line 79.
+LaTeX Info: Redefining \ttfamily on input line 79.
  [5
 
 ] [6
@@ -2645,33 +2645,33 @@ Package polyglossia Info: Option: Monotonic Greek.
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 92.
+Package hyperref Warning: Ignoring empty anchor on input line 93.
 
-./thesis.tex:92: Number too big.
+./thesis.tex:93: Number too big.
 optional@arg ->10000000000
                           00000000000000000000000000000000000000000000000000...
-l.92 \end{acknowledgementsgr}
+l.93 \end{acknowledgementsgr}
                              
 ? 
-./thesis.tex:92: Dimension too large.
+./thesis.tex:93: Dimension too large.
 <recently read> @tempdimb 
                           
-l.92 \end{acknowledgementsgr}
+l.93 \end{acknowledgementsgr}
                              
 ? 
 LaTeX Font Info:    Font shape `TU/LiberationMono(1)/m/n' will be
-(Font)              scaled to size 16383.99998pt on input line 92.
-./thesis.tex:92: Improper `at' size (16383.99998pt), replaced by 10pt.
+(Font)              scaled to size 16383.99998pt on input line 93.
+./thesis.tex:93: Improper `at' size (16383.99998pt), replaced by 10pt.
 <to be read again> 
                    relax 
-l.92 \end{acknowledgementsgr}
+l.93 \end{acknowledgementsgr}
                              
 ? 
-./thesis.tex:92: Font TU/LiberationMono(1)/m/n/10="Liberation Mono/OT" at 10.0p
+./thesis.tex:93: Font TU/LiberationMono(1)/m/n/10="Liberation Mono/OT" at 10.0p
 t not loadable: Metric (TFM) file or installed font not found.
 <to be read again> 
                    relax 
-l.92 \end{acknowledgementsgr}
+l.93 \end{acknowledgementsgr}
                              
 ? 
 Missing character: There is no h ("68) in font nullfont!
@@ -2803,7 +2803,7 @@ Package polyglossia Info: Option: Monotonic Greek.
 Κεφάλαιο 1.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 115.
+(hyperref)                than one, level fixed on input line 116.
 
 [15
 
@@ -3263,16 +3263,10 @@ l.595 \begin{document}
 
 ]
 Κεφάλαιο 4.
-
-Underfull \hbox (badness 4927) in paragraph at lines 651--652
-[]\TU/TimesNewRoman(1)/m/n/10.95 Οι μεταβλητές maxdf και mindf, που αποτελούν ε
-πίσης παραμέτρους του Tf-
- []
-
 File: ~/Desktop/thesis_images/tfidf.png Graphic file (type bmp)
 <~/Desktop/thesis_images/tfidf.png>
 
-Underfull \vbox (badness 3343) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
 [36]
@@ -3284,8 +3278,8 @@ File: ~/Desktop/thesis_images/gridrand.png Graphic file (type bmp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [37]
-./thesis.tex:707: Undefined control sequence.
-l.707 ... (\textit{features}) και ετικέτες (\texit
+./thesis.tex:699: Undefined control sequence.
+l.699 ... (\textit{features}) και ετικέτες (\texit
                                                   {labels}). Η παράμετρος st...
 
 ? 
@@ -3293,13 +3287,13 @@ l.707 ... (\textit{features}) και ετικέτες (\texit
 Underfull \vbox (badness 2042) has occurred while \output is active []
 
  [38]
-./thesis.tex:758: Undefined control sequence.
-l.758 ...δεύεται από ένα πλέγμα παραμέτρων (\texit
+./thesis.tex:750: Undefined control sequence.
+l.750 ...δεύεται από ένα πλέγμα παραμέτρων (\texit
                                                   {param\_grid}) που περιλαμ...
 
 ? 
-./thesis.tex:758: Undefined control sequence.
-l.758 ...υ GridSearchCV και την πεντάπτυχη (\texit
+./thesis.tex:750: Undefined control sequence.
+l.750 ...υ GridSearchCV και την πεντάπτυχη (\texit
                                                   {5-fold}) διασταυρούμενη ε...
 
 ? 
@@ -3458,14 +3452,14 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 >  {newzealand/options}  =>  {variant=newzealand}.
 
 
-./thesis.tex:1147: LaTeX Error: \begin{enumerate} on input line 627 ended by \e
+./thesis.tex:1139: LaTeX Error: \begin{enumerate} on input line 628 ended by \e
 nd{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1147 \end{document}
+l.1139 \end{document}
                      
 ? 
 [53] (./thesis.aux
@@ -3517,8 +3511,8 @@ runsystem(rm thesis.pyg)...disabled (restricted).
  )
 (\end occurred inside a group at level 3)
 
-### semi simple group (level 3) entered at line 627 (\begingroup)
-### semi simple group (level 2) entered at line 613 (\begingroup)
+### semi simple group (level 3) entered at line 628 (\begingroup)
+### semi simple group (level 2) entered at line 614 (\begingroup)
 ### semi simple group (level 1) entered at line 595 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
